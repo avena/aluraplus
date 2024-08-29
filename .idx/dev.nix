@@ -29,6 +29,7 @@
         "aaron-bond.better-comments"
         "vscode-icons-team.vscode-icons"
         "salesforce.salesforcedx-vscode"
+        "bierner.markdown-emoji"
         # "vscodevim.vim"
     ];
 
